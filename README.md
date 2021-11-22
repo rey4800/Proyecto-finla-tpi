@@ -84,6 +84,11 @@ _Para Finalizar solo abrimos el proyecto en el navegador con su ruta correspondi
 
 _Los modulos al momento de pagar por la pelicula, pagar la renta de la pelicula o pagar la multa de la pelicula son simulados es decir no acepta pagos reales, la API para realizar pagos reales no esta implementada ._
 
+_Los usuarios administradores los crea por default los cuales son:_
+* _email: miguel@ues.com contraseña:1234567*_
+*  _email: pr19004@ues.edu.sv contraña: abcdefghij*_
+
+
 ***
 ## Autores ✒️
 
