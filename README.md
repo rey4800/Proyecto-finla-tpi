@@ -53,7 +53,7 @@ _Ya teniendo los requisitos anteriores:_
 
 _Abrimos el programa XAMPP y Iniciamos las siguientes opciones:_
 
-<img src="xampp.png" alt="My cool logo" width="400px" height="200px"/>
+
 
 
 _Como primer paso abrimos la consola en la carpeta del proyecto para dirígete al directorio donde guardas tus proyectos web (si usas XAMPP la ruta es C:\xampp\htdocs\movie_
