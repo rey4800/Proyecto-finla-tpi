@@ -55,7 +55,6 @@ _Abrimos el programa XAMPP y Iniciamos las siguientes opciones:_
 
 
 (https://github.com/rey4800/Proyecto-finla-tpi/blob/main/xampp.PNG)
-<img src="ttps://github.com/rey4800/Proyecto-finla-tpi/blob/main/xampp.PNG" alt="imagen" width="400px" height="200px"/>
 
 
 _Como primer paso abrimos la consola en la carpeta del proyecto para dirígete al directorio donde guardas tus proyectos web (si usas XAMPP la ruta es C:\xampp\htdocs\movie_
