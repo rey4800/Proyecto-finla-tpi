@@ -86,7 +86,7 @@ _Los modulos al momento de pagar por la pelicula, pagar la renta de la pelicula 
 
 _Los usuarios administradores los crea por default los cuales son:_
 * _email: miguel@ues.com contraseña:1234567*_
-*  _email: pr19004@ues.edu.sv contraña: abcdefghij*_
+*  _email: pr19004@ues.edu.sv contraseña: abcdefghij*_
 
 
 ***
