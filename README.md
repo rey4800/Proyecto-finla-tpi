@@ -57,7 +57,7 @@ _Abrimos el programa XAMPP y Iniciamos las siguientes opciones:_
 
 (https://github.com/rey4800/Proyecto-finla-tpi/blob/main/xampp.PNG)
 
-_Importar la base de datos con el nombre db_movie_
+- _Importar la base de datos con el nombre db_movie_
 
 _Luego hacemos el siguiente paso_
 
