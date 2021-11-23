@@ -69,7 +69,7 @@ _Escribimos lo siguiente (para evitar errores de versiones) y damos enter:_
 composer update
 ```
 
-_  Los siguientes comandos se utilizan cuando no importamos la base de datos esto para crearla de una vez: _
+*Los siguientes comandos se utilizan cuando no importamos la base de datos esto para crearla de una vez:
 
 _Luego en la misma consola digitamos lo siguiente para migrar toda la base de datos de manera automatica_.
 
