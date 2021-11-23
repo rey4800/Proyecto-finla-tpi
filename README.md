@@ -49,12 +49,17 @@ _Las herramientas que utilizamos para la creación y desarrollo del proyecto son
 
 _Primero tenemos  que tener descargado el proyecto y tener instalado las herramientas Composer y XAMPP explicados en el apartado anterior_
 
+
 _Ya teniendo los requisitos anteriores:_
 
 _Abrimos el programa XAMPP y Iniciamos las siguientes opciones:_
 
 
 (https://github.com/rey4800/Proyecto-finla-tpi/blob/main/xampp.PNG)
+
+_Importar la base de datos con el nombre db_movie_
+
+_Luego hacemos el siguiente paso_
 
 
 _Como primer paso abrimos la consola en la carpeta del proyecto para dirígete al directorio donde guardas tus proyectos web (si usas XAMPP la ruta es C:\xampp\htdocs\movie_
@@ -63,6 +68,8 @@ _Escribimos lo siguiente (para evitar errores de versiones) y damos enter:_
 ```
 composer update
 ```
+
+_ Los siguientes comandos se utilizan cuando no importamos la base de datos esto para crearla de una vez:_
 
 _Luego en la misma consola digitamos lo siguiente para migrar toda la base de datos de manera automatica_.
 
